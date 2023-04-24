@@ -1,4 +1,4 @@
-# SNUCTour 3D Web Application
+# SNUC Virtual Tour Application
 
 In this project we have created a site for SNUC in order to be able to give a tour of the campus
 
