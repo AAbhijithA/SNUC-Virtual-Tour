@@ -18,3 +18,9 @@ This web application solves that by giving a virtual tour and a satellite view o
 - - - -
 ### 4) There is also a satellite view linked to the google maps in order to give directions to the campus or for people to see the satellite view of the campus
 ![](Project_img/S_viewsite.png)
+- - - -
+### Contributors
+* [Abhijith Ajith](https://github.com/AAbhijithA)
+* [Harshini Manivannan](https://github.com/harshini1203)
+* [Shama Anjum](https://github.com/yugen-21)
+* [Charumathi Narayanan](https://github.com/Char325)
